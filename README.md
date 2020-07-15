@@ -1,2 +1,4 @@
+### Author: Arkadiusz Modzelewski
 # Basic-Data-Processing-Assignment
-Solution to the basic data processing assignment
+
+This repo contains solution to the basic data processing assignment
